@@ -1,0 +1,151 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow-x: hidden;
+  overflow: y;
+}
+
+.icons{
+  height: 40px;
+  border-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* margin-bottom: 10px; */
+}
+
+.navbar{
+  position: fixed;
+  border-bottom: 1px solid white;
+}
+
+.bg-img{
+  background-image: url("/img/h1_hero.jpg.webp");
+  background-size: cover;
+  background-repeat:no-repeat ;
+}
+
+.container-1{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.container-1 .content-1 p{
+  text-align: center;
+  font-size: 56px;
+  font-family: serif;
+  font-weight: 400px;
+  color: white;
+  line-height: 1.3;
+}
+
+.button1 a {
+font-family: "lost",sans-serif;
+background-color: white;
+color: black;
+text-transform: capitalize;
+font-weight: 500;
+width: 100%;
+height: 40px;
+font-size: 20px;
+line-height: 18px;
+text-align: center;
+display: block;
+padding: 15px;
+border-radius: 1px;
+margin-bottom: -1px;
+text-decoration: none;
+}
+.luxury{
+  font-size: 45px;
+}
+.concept{
+  font-size: 25px;
+  /* font-style:inherit; */
+}
+.button2{
+  font-size: 20px;
+  width: 200px;
+  color: red;
+  margin-left: 20;
+}
+.rooms{
+  font-size: 60px;
+
+
+}
+.concept2{
+  font-size: 35px;
+}
+.mb-60{
+     margin:80px;
+}
+.title-btn{
+  color: black;
+  font-size: 30px;
+  font-weight: 400;
+  display: inline-block;
+  text-decoration: dotted underline;
+  margin: 40px;
+}
+.img1{
+  margin-left: 120px;
+  width: 590px;
+}
+.container1{
+  display: flex;
+  justify-content: center;
+}
+
+.btn1{
+  color:antiquewhite;
+  font-size: 28px;
+  background-color:red;
+  text-decoration: none;
+  border-radius: 5%;
+}
+
+.video-area{
+  background-image: url("/img/video-bg.jpg\ background\ img");
+}
+.video-icon{
+  display: flex;
+  width: 100vw;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+}
+.guest{
+  font-size: 50px;
+  /* position: relative; */
+  /* top: 10px; */
+  /* left: 10px; */
+}
+
+.btnlast{
+  width: 185px;
+  height: 35px;
+  background-color: red;
+}
+.foot1{
+text-decoration:none;
+}
+.carousel-item{
+  position: relative;
+  opacity: 1;
+  visibility: visible;
+}
+
+#ul1 a[href]{
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+#ul2 a[href]{
+  text-decoration: none;
+  color: antiquewhite;
+}
