@@ -22,7 +22,7 @@ body{
 }
 
 .bg-img{
-  background-image: url("https://github.com/Rohanjadha/Hotel-view-Website/blob/main/img/h1_hero.jpg.webp");
+  background-image: url("img/h1_hero.jpg.webp");
   background-size: cover;
   background-repeat:no-repeat ;
 }
