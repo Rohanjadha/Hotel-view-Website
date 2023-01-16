@@ -22,7 +22,7 @@ body{
 }
 
 .bg-img{
-  background-image: url(/background/h1_hero.jpg.webp);
+  background-image: url(/img/h1_hero.jpg.webp);
   background-size: cover;
   background-repeat:no-repeat ;
 }
@@ -110,7 +110,7 @@ text-decoration: none;
 }
 
 .video-area{
-  background-image: url(/background/video-bg.jpg\ background\ img);
+  background-image: url(/img/video-bg.jpg\ background\ img);
 }
 .video-icon{
   display: flex;
