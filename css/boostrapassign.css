@@ -22,7 +22,7 @@ body{
 }
 
 .bg-img{
-  background-image: url("h1_hero.jpg.webp");
+  background-image: url("/img/h1_hero.jpg.webp");
   background-size: cover;
   background-repeat:no-repeat ;
 }
