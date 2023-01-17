@@ -111,6 +111,7 @@ text-decoration: none;
 
 .video-area{
   background-image: url('img/video-bg.jpg\ background\ img');
+  background-image: no-repeat;
 }
 .video-icon{
   display: flex;
